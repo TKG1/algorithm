@@ -1,0 +1,5 @@
+h, w = gets.split.map(&:to_i)
+h.times do |i|
+  c = gets.chomp
+  2.times{puts c}
+end

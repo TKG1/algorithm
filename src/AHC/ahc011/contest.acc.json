@@ -1,0 +1,20 @@
+{
+  "contest": {
+    "id": "ahc011",
+    "title": "AtCoder Heuristic Contest 011",
+    "url": "https://atcoder.jp/contests/ahc011"
+  },
+  "tasks": [
+    {
+      "id": "ahc011_a",
+      "label": "A",
+      "title": "Sliding Tree Puzzle",
+      "url": "https://atcoder.jp/contests/ahc011/tasks/ahc011_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cr"
+      }
+    }
+  ]
+}
